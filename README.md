@@ -12,6 +12,7 @@ Anyhoo. This required a special library called `ADVBAS.QLB` either to run proper
 
 Here's some screens! Running for the first time in almost 30 years using **ORIGINAL QB 4.5 EXECUTABLE!**. I still had this in my archive. With DOSBox, the executable and library ran flawlessly.
 
+![Launch](./img/launch.jpeg)
 ![File Menu](./img/file-menu.jpeg)
 ![Fixed Number Option](./img/fixed-number.jpeg)
 ![Color Options Menu](./img/option-colors.jpeg)
