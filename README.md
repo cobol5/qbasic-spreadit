@@ -1,6 +1,6 @@
 qbasic-spreadit
 
-Okay, okay -- the name is terrible, but remember the days when all you had wer 8 character file names in DOS? yah. So, this is what we get.
+Okay, okay -- the name is terrible, but remember the days when all you had were 8 character file names in DOS? yah. So, this is what we get.
 
 This was a personal project in 1993. I always found it really important to put copyrighted dates in my software, for some reason. This is also labeled as version 3, but that ain't right. Just makin' stuff up :)
 
